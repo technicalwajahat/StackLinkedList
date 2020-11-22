@@ -1,8 +1,4 @@
-// Muhammad Wajahat Asif
-// FA19 - BSE - 027
-// BSE - 3A
-
-// Task : Stack by using Linked List
+// Stack Implementation Using LinkedList
 
 package linkedliststack;
 
@@ -90,7 +86,3 @@ public class LinkedListStack
         stack.show();
     }
 }
-
-// Muhammad Wajahat Asif
-// FA19 - BSE - 027
-// BSE - 3A
